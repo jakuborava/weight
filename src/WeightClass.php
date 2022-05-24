@@ -1,6 +1,6 @@
 <?php
 
-namespace Jakuborava\Weight;
+namespace JakubOrava\Weight;
 
 class WeightClass
 {

@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Jakuborava\\Weight\\": "src"
+            "JakubOrava\\Weight\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Jakuborava\\Weight\\Tests\\": "tests"
+            "JakubOrava\\Weight\\Tests\\": "tests"
         }
     },
     "scripts": {
