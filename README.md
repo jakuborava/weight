@@ -1,11 +1,11 @@
 
 [<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
 
-# :package_description
+# Weight package for PHP package training
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![Tests](https://github.com/:vendor_slug/:package_slug/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/:vendor_slug/:package_slug/actions/workflows/run-tests.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/jakuborava/weight.svg?style=flat-square)](https://packagist.org/packages/jakuborava/weight)
+[![Tests](https://github.com/jakuborava/weight/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/jakuborava/weight/actions/workflows/run-tests.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/jakuborava/weight.svg?style=flat-square)](https://packagist.org/packages/jakuborava/weight)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
 
@@ -14,14 +14,14 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require :vendor_slug/:package_slug
+composer require jakuborava/weight
 ```
 
 ## Usage
 
 ```php
-$skeleton = new VendorName\Skeleton();
-echo $skeleton->echoPhrase('Hello, VendorName!');
+$skeleton = new jakuborava\Weight();
+echo $skeleton->echoPhrase('Hello, jakuborava!');
 ```
 
 ## Testing
@@ -44,7 +44,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [:author_name](https://github.com/:author_username)
+- [Jakub Orava](https://github.com/jakuborava)
 - [All Contributors](../../contributors)
 
 ## License
