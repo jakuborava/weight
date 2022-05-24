@@ -20,7 +20,7 @@ composer require jakuborava/weight
 ## Usage
 
 ```php
-$skeleton = new jakuborava\Weight();
+$skeleton = new Jakuborava\Weight();
 echo $skeleton->echoPhrase('Hello, jakuborava!');
 ```
 
